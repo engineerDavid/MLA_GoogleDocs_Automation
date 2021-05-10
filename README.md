@@ -10,8 +10,8 @@ A MLA python automation application that creates a new document already formated
 *Add in the json file to your working directory
 
 ## Third step
-*create a document on your googledoc and format it the way you want it.
-*get the document ID which can be found in the url
+* create a document on your googledoc and format it the way you want it.
+* get the document ID which can be found in the url
 * ex:(https://docs.google.com/document/d/document_id/edit)
 * do this for every one of you class
 
